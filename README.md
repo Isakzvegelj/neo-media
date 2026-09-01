@@ -23,5 +23,6 @@ Open the URL printed by the command (it uses the VM IP, not `127.0.0.1`). Previe
 ## Notes
 
 - The enquiry form currently confirms in-browser only. Connect it to Formspree, a serverless endpoint, or the client's CRM before launch.
-- Replace the Unsplash image URLs with owned/licensed project imagery before publishing.
+- The current gallery uses real Maxis Penthouse photography copied into `assets/`; confirm usage rights and replace/add client project credits before publishing.
+- The embedded 360° project tour links to the existing Momento360 tour used on the Maxis site.
 - Suggested domain: `neomedia.studio` (brand-forward and immediately communicates a creative studio). Alternatives: `neomediahospitality.com`, `neomedia.visuals`, `neomediafilms.com`.
