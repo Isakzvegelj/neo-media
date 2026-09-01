@@ -6,11 +6,19 @@ Static landing page for a hospitality visual-content studio: 360° tours, hotel 
 
 From `/home/dsh/projects/sites`:
 
+For the DSH browser, use the VM-local preview:
+
 ```bash
 ~/bin/preview-serve 4173 neo-media 1800
 ```
 
-Then open `http://127.0.0.1:4173`.
+For a browser on the Mac host, use the Mac-accessible preview instead:
+
+```bash
+~/bin/preview-serve-mac 4173 neo-media 1800
+```
+
+Open the URL printed by the command (it uses the VM IP, not `127.0.0.1`). Preview servers expire after 30 minutes.
 
 ## Notes
 
